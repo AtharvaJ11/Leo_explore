@@ -6,6 +6,8 @@ The planner can be run on simulation on Gazebo as well as the Turtlebot3 Burger 
 
 Demonstration video: https://youtu.be/fyIsYrZ6wks
 
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/fyIsYrZ6wks)
+
 ## Instructions for setting up the environment:
 
 Before launching the simulation, make sure to execute the following command in all terminals to set up the environment:
