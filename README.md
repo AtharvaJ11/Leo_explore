@@ -5,6 +5,7 @@ Welcome to Leo Explore: The Reconnaissance Bot  GitHub repository! Our project s
 The planner can be run on simulation on Gazebo as well as the Turtlebot3 Burger platform.
 
 Demonstration video: https://youtu.be/fyIsYrZ6wks
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/fyIsYrZ6wks))
 
 ## Instructions for setting up the environment:
 
